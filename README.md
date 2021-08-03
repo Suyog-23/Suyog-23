@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWH3iqL9MJ3c-19oELLutkQjnyKTtRQS2JXg&usqp=CAU) -->
 <html>
   <p>
-  <h2 align="center">Hello</h4>
+  <h2 align="center">Hello Developers!</h4>
   <p align="center"><img src="https://user-images.githubusercontent.com/68846539/127871341-a228b094-045d-4081-90d0-7973f5cda59d.png" height="300" width="500"></p>
   </p>
 </html>
