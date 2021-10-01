@@ -17,12 +17,17 @@ Here are some ideas to get you started:
 <!-- ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWH3iqL9MJ3c-19oELLutkQjnyKTtRQS2JXg&usqp=CAU) -->
 <html>
   <body>
-  <p>
+    
+  <p align="center"><img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"></p>
+    
   <h2 align="center">Hello Developers!</h4>
   
- <img  src="https://github-readme-stats.vercel.app/api?username=Suyog-23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Suyog's Github Stats" width="40%">
+<p align="center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=Suyog-23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Suyog's Github Stats" width="40%" style="margin-right="20px"">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog-23&theme=tokyonight&layout=compact" width="28%">
+    </p>
+    
+ 
   
   </body>
 </html>
-
-![Suyog's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog-23&theme=tokyonight&layout=compact)
