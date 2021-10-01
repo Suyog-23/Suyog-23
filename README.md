@@ -21,8 +21,7 @@ Here are some ideas to get you started:
   <h2 align="center">Hello Developers!</h4>
   
  <img  src="https://github-readme-stats.vercel.app/api?username=Suyog-23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Suyog's Github Stats" width="40%">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suyog-23&show_icons=true&locale=en&layout=compact" alt="Suyog" width="40%" /> 
-
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
   
   
   </body>
