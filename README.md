@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 <!-- ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWH3iqL9MJ3c-19oELLutkQjnyKTtRQS2JXg&usqp=CAU) -->
 <html>
+  <body>
   <p>
   <h2 align="center">Hello Developers!</h4>
   <p align="center"><img src="https://user-images.githubusercontent.com/68846539/127871341-a228b094-045d-4081-90d0-7973f5cda59d.png" height="300" width="500"></p>
   </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suyog-23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,8B73FF,8B73FF" alt="Suyog's Github Stats">
+  </body>
 </html>
