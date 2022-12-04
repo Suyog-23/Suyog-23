@@ -36,8 +36,13 @@ Here are some ideas to get you started:
  <img  src="https://github-readme-stats.vercel.app/api?username=Suyog-23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Suyog's Github Stats" width="40%" style="margin-right="20px"">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog-23&theme=tokyonight&layout=compact" width="28%">
 </p>
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=px13ouc6lfxzgosez6ha4334u&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=px13ouc6lfxzgosez6ha4334u&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)]]
+    
+<p align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=px13ouc6lfxzgosez6ha4334u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
+</p>
   
   </body>
 </html>
+
