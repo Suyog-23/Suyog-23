@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <html>
   <body>
     
-  <p align="center"><img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"></p>
-    
-  <h2 align="center">Hello Developers!</h4>
-    
   <p align="center">
   <a href="https://www.youtube.com/channel/UC987z2FQn07wKwT3kWBal5Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
     <a href="https://twitter.com/savalkar_suyog"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -32,16 +28,6 @@ Here are some ideas to get you started:
     <a href="https://www.behance.net/suyogsavalkar"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /> </a>
   </p>
   
-<p align="center">
- <img  src="https://github-readme-stats.vercel.app/api?username=Suyog-23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Suyog's Github Stats" width="40%" style="margin-right="20px"">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog-23&theme=tokyonight&layout=compact" width="28%">
-</p>
-    
-<p align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=px13ouc6lfxzgosez6ha4334u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  
-</p>
   
   </body>
 </html>
